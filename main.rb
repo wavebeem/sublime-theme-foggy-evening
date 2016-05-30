@@ -4,19 +4,19 @@ require "nokogiri"
 module Color
   extend self
 
-  BG = "#2b2656"
-  FG = "#8aa0e3"
-  WHITE = "#dcdee4"
-  GRAY = "#dcdee4"
-  BLACK = "#453e7a"
-  RED = "#fb5182"
-  GREEN = "#37d66c"
-  BLUE = "#67dcbf"
-  YELLOW = "#e39f31"
-  ORANGE = "#e39f31"
-  PURPLE = "#b467e2"
-  PINK = "#b467e2"
-  CYAN = "#cce740"
+  BG = "#212121"
+  FG = "#bdbdbd"
+  WHITE = "#fafafa"
+  GRAY = "#9e9e9e"
+  BLACK = "#424242"
+  RED = "#ff5252"
+  GREEN = "#4caf50"
+  BLUE = "#03a9f4"
+  YELLOW = "#cddc39"
+  ORANGE = "#ff6e40"
+  PURPLE = "#ba68c8"
+  PINK = "#f48fb1"
+  CYAN = "#00bfa5"
   NO_ = "#ff00ff"
 
   THEME_NAME = "Foggy Evening"
@@ -229,7 +229,7 @@ module Color
   def style(color, *font_style)
     {
       foreground: color,
-      background: dilute(color, 10),
+      background: dilute(color, 8),
       fontStyle: font_style.join(" "),
     }
   end
