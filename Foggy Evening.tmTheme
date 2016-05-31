@@ -30,9 +30,9 @@
           <key>lineHighlight</key>
           <string>#fafafa19</string>
           <key>selection</key>
-          <string>#00bfa533</string>
+          <string>#fafafacc</string>
           <key>selectionForeground</key>
-          <string>#fafafa</string>
+          <string>#424242</string>
           <key>shadow</key>
           <string>#424242bf</string>
           <key>shadowWidth</key>
