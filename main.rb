@@ -4,8 +4,8 @@ require "nokogiri"
 module Color
   extend self
 
-  BG = "#212121"
-  FG = "#bdbdbd"
+  BG = "#2b303b"
+  FG = "#d2d6e0"
   WHITE = "#fafafa"
   GRAY = "#9e9e9e"
   BLACK = "#424242"
