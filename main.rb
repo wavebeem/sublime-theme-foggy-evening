@@ -8,7 +8,7 @@ module Color
   FG = "#d2d6e0"
   WHITE = "#fafafa"
   GRAY = "#9e9e9e"
-  BLACK = "#424242"
+  BLACK = "#000000"
   RED = "#ff5252"
   GREEN = "#4caf50"
   BLUE = "#03a9f4"
@@ -82,7 +82,7 @@ module Color
       lineHighlight: dilute(WHITE, 10),
       selection: dilute(WHITE, 80),
       selectionForeground: BLACK,
-      shadow: dilute(BLACK, 75),
+      shadow: dilute(BLACK, 50),
       shadowWidth: 8,
       # gutter: dilute(BLACK, 0),
       gutterForeground: dilute(WHITE, 30),

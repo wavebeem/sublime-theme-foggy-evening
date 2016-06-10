@@ -32,9 +32,9 @@
           <key>selection</key>
           <string>#fafafacc</string>
           <key>selectionForeground</key>
-          <string>#424242</string>
+          <string>#000000</string>
           <key>shadow</key>
-          <string>#424242bf</string>
+          <string>#0000007f</string>
           <key>shadowWidth</key>
           <string>8</string>
           <key>gutterForeground</key>
@@ -670,7 +670,7 @@
           <key>foreground</key>
           <string>#8bc34a</string>
           <key>background</key>
-          <string>#424242</string>
+          <string>#000000</string>
         </dict>
       </dict>
       <dict>
@@ -683,7 +683,7 @@
           <key>foreground</key>
           <string>#8bc34a</string>
           <key>background</key>
-          <string>#424242</string>
+          <string>#000000</string>
         </dict>
       </dict>
       <dict>
@@ -696,7 +696,7 @@
           <key>foreground</key>
           <string>#ff5252</string>
           <key>background</key>
-          <string>#424242</string>
+          <string>#000000</string>
         </dict>
       </dict>
       <dict>
